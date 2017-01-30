@@ -10,7 +10,6 @@ name: De Geist
 twitter_username: degeist
 facebook_username: facebook
 
-
 # Build settings
 markdown: redcarpet
 highlighter: rouge # or rouge or null
