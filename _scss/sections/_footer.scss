@@ -3,12 +3,12 @@ footer {
   .social {
     list-style-type: none;
     margin: 0;
-    padding: $spacer-x 0;
+    padding: $spacer 0;
 
     li {
       display: inline-block;
       vertical-align: top;
-      margin: 0 $spacer-x/8;
+      margin: 0 $spacer/8;
     }
 
     &__link {

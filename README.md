@@ -32,7 +32,7 @@ Which calls the Jekyll config_dev.yml which sets the url as ```localhost```. Cha
 return cp.spawn( jekyll , ['build'], {stdio: 'inherit'})
 ```
 
-If not needed.
+if not needed.
 
 ## Usage
 
